@@ -1,0 +1,8 @@
+D:\SherwinW\Soure\ReadKeyCode\bin\Debug\ReadKeyCode.exe
+D:\SherwinW\Soure\ReadKeyCode\bin\Debug\ReadKeyCode.pdb
+D:\SherwinW\Soure\ReadKeyCode\obj\Debug\ReadKeyCode.csprojAssemblyReference.cache
+D:\SherwinW\Soure\ReadKeyCode\obj\Debug\ReadKeyCode.frmReadKeyCode.resources
+D:\SherwinW\Soure\ReadKeyCode\obj\Debug\ReadKeyCode.Properties.Resources.resources
+D:\SherwinW\Soure\ReadKeyCode\obj\Debug\ReadKeyCode.csproj.GenerateResource.cache
+D:\SherwinW\Soure\ReadKeyCode\obj\Debug\ReadKeyCode.exe
+D:\SherwinW\Soure\ReadKeyCode\obj\Debug\ReadKeyCode.pdb
